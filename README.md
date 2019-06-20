@@ -1,4 +1,4 @@
-# Entrainement aux bases de données
+# Entraînement aux bases de données
 
 ## 1. Modélisation : 
 
