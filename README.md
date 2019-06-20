@@ -24,3 +24,7 @@ Importer la base de données à partir du fichier `restaurant.sql` et faire les 
 6) pour chaque restaurant, son nom et le nombre de menus qu'il propose
 
 7) les noms des restaurants dont au moins un menu est supérieur à 30€
+
+8) les noms et nombre de plats des trois menus qui ont le plus de plats, par ordre décroissant de nombre de plats
+
+9) le restaurant dont la moyenne des prix de tous ses plats est la plus élevée
