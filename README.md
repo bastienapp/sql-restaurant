@@ -2,12 +2,12 @@
 
 ## 1. Modélisation : 
 
-Des restaurants ont un nom, une adresse.
-Chaque restaurant possède un ou plusieurs menus, un menu n'appartenant qu'à un seul restaurant.
-Un menu est composé d'un titre et d'un ou plusieurs plats.
-Un plat est composé d'un nom et d'un prix et peut appartenir à un ou plusieurs menus.
-Un restaurant possède un seul propriétaire : un propriétaire est spécifié par un nom, une adresse et un numero de siret.
-Un propriétaire peut posséder plusieurs restaurants.
+* Des restaurants ont un nom, une adresse.
+* Chaque restaurant possède un ou plusieurs menus, un menu n'appartenant qu'à un seul restaurant.
+* Un menu est composé d'un titre et d'un ou plusieurs plats.
+* Un plat est composé d'un nom et d'un prix et peut appartenir à un ou plusieurs menus.
+* Un restaurant possède un seul propriétaire : un propriétaire est spécifié par un nom, une adresse et un numero de siret.
+* Un propriétaire peut posséder plusieurs restaurants.
 
 ## 2. SQL
 
